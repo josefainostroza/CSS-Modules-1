@@ -1,5 +1,11 @@
+import ContainerCards from './components/containerCards/ContainerCards';
+
 const App = () => {
-	return <h1>Curso de React</h1>;
+	return (
+		<>
+			<ContainerCards></ContainerCards>
+		</>
+	);
 };
 
 export default App;

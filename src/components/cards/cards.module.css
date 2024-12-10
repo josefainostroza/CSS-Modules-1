@@ -1,0 +1,48 @@
+.img {
+	width: 64px;
+}
+.title {
+	font-size: 40px;
+	font-family: 'Big Shoulders Display';
+	color: white;
+}
+.text {
+	font-size: 15px;
+	font-family: 'Lexend Deca';
+	margin-bottom: 25px;
+	color: white;
+	font-weight: 400;
+	line-height: 25px;
+}
+.button {
+	font-size: 15px;
+	font-family: 'Lexend Deca';
+	border: none;
+	padding: 11px 31.5px;
+	border-radius: 50px;
+	background-color: white;
+}
+.orderCards {
+	display: flex;
+	flex-direction: column;
+	padding: 49px;
+	height: 442px;
+}
+.colorSedans {
+	background-color: #e28625;
+}
+.colorSuvs {
+	background-color: #006971;
+}
+.colorLuxury {
+	background-color: #004140;
+}
+.buttonColorSedans {
+	color: #e28625;
+}
+.buttonColorSuvs {
+	color: #006971;
+}
+.buttonColorLuxury {
+	color: #004140;
+}
